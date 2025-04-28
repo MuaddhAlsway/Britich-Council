@@ -107,6 +107,32 @@ The main goal was to practice and demonstrate skills in layout structuring, navi
    - Navigation Structure:
     Created a consistent and user-friendly navigation system, ensuring smooth user flow between different parts of the website.
 
+## 📂 Project Structure 
+
+
+```
+British-Council/
+│
+├── HomePage/
+│   ├── HomePage.html        # Main structure of the homepage
+│   ├── HomePage.css         # Styling for the homepage
+│
+├── Listing/
+│   ├── Listing.html         # English level listing page
+│   ├── Listening.css        # CSS for the Listening section
+│   ├── Listening.html       # HTML for the Listening section
+│
+├── LiveClasses/
+│   ├── LiveClasses.html     # HTML for live classes page
+│   ├── liveClasses.css      # Styling for the live classes page
+│   ├── liveClasses.js       # JavaScript for interactive sections (if applicable)
+│
+├── assets/
+│   ├── images/              # Folder for all images (icons, background images, etc.)
+│
+├── README.md                # Project overview and setup instructions
+└── LICENSE                  # License information (if any)
+```
 ## 📊 Project Status
 
 ✅ Completed
