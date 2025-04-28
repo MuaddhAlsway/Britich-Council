@@ -1,0 +1,1339 @@
+.Header{
+    width: 1920px;
+    height: 170px;
+    background: #00953b;
+    margin: -10px 0px 0px -10px;
+}
+.Container{
+    padding: 10px 0px 0px 300px;
+}
+
+.Logo img{
+    width: 160px;
+    margin: 5px 0px 0px -10px;
+}
+.lineUp{
+    margin: -60px 0px 0px 150px;
+   width: 0px;
+   height: 40px;
+   border: 0.5px solid white;
+}
+.TitleLearnEnglish{
+    margin: -60px 0px 0px 170px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: white;
+    font-size: 20px;
+
+}
+
+.SideLeft{
+    margin: -50px 0px 0px 1350px;
+}
+.icon{
+    color: white;
+}
+.lineUp1{
+    margin: -15px 0px 0px 40px;
+   width: 0px;
+   height: 15px;
+   border: 0.5px solid white;
+}
+.LogIn h4{
+    margin: -20px 0px 0px 60px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: white;
+}
+.LogIn h4:hover{
+    color: #00ff66;
+}
+.lineUp2{
+    margin: -15px 0px 0px 120px;
+   width: 0px;
+   height: 15px;
+   border: 0.5px solid white;
+}
+
+.Register h4{
+    margin: -20px 0px 0px 140px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: white;
+}
+
+.Register h4:hover{
+    color: #00ff66;
+}
+
+.CategriesCourse{
+    margin:50px 0px 0px 10px;
+}
+.ListMenu{
+    margin: -5px 0px 0px 0px;
+}
+.ListMenu h4{
+    display: inline-block;
+    padding: 0px 60px 0px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        color: white;
+    font-size: 20px
+}
+.LiveClassContainerimg{
+    width: 1920px;
+    height: 850px;
+    background-image: url(img/LiveClasses/girlwithheadphones.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px 0px 0px -10px;
+}
+.LiveClassTitle{
+   margin: -350px 0px 0px 300px;
+}
+.LiveClassGreen button{
+    background: #00953b;
+    padding: 20px 80px;
+    font-size: 20px;
+    color: white;
+    border: none;
+}
+.ContainerBigHighlight{
+    margin: -60px 0px 0px 0px;
+    width: 1090px;
+    height: 286px;
+    background: white;
+    border-top-right-radius: 50px;
+}
+
+.ContainerBigHighlight h4{
+    font-size: 45px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+
+    padding: 90px 0px 0px 100px;
+}
+
+.ContainerBigHighlight span{
+    color: #23085a;
+    font-weight: 600
+}
+.StartNewRightEnglish{
+    width: 1920px;
+    height: 220px;
+    background: #23085a;
+    margin: 0px 0px 0px -10px;
+}
+
+.StartNewRightEnglishTitle{
+    margin: 0px 0px 0px 350px;
+}
+.StartNewRightEnglishTitle h4{
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+.StartNewRightEnglishDescribtion{
+    margin: -50px 0px 0px 350px;
+}
+.StartNewRightEnglishDescribtion h4{
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+.ButtonStartNewRightEnglishDescribtion{
+    margin: -100px 0px 0px 1500px;
+}
+
+.ButtonStartNewRightEnglishDescribtion button{
+   padding: 20px 40px;
+   border-radius: 50px;
+   border: none;
+   transition: all ease-in-out 0.5s;
+   font-size: 18px;
+}
+
+#DiscountNow{
+    padding: 20px 40px;
+    border-radius: 50px;
+    border: none;
+    transition: all ease-in-out 0.5s;
+}
+#DiscountNow:hover{
+    background: #00953b;
+    text-decoration: underline;
+}
+.ButtonStartNewRightEnglishDescribtion button:hover{
+    background: #00953b;
+    text-decoration: underline;
+}
+
+
+.logo{
+    margin: 0px 0px 0px 330px;
+}
+.logo img{
+    width: 150px;
+}
+
+.lineUp3{
+    margin: -55px 0px 0px 470px;
+   width: 0px;
+   height: 25px;
+   border: 0.1px solid #23085a;
+}
+
+.TitleLearnEnglish1{
+    margin: -50px 0px 0px 500px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #23085a;
+    font-size: 20px;
+
+}
+
+
+
+.BritichCouncilHighlightFirst{
+    margin: 80px 0px 0px 380px;
+}
+.BritichCouncilHighlightFirst h4{
+    font-size: 30px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #23085a;
+  
+}
+.Live24-7 {
+    margin: 150px 0px 0px 380px;
+
+}
+.Live24-7 h4{
+    font-size: 35px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #23085a;
+}
+.OurLive {
+    margin: -10px 0px 0px 380px;
+
+}
+.OurLive h4{
+    font-size:30px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: black;
+}
+.LiveOnlineClass{
+    margin: 50px 0px 0px 380px;
+}
+
+.live1 button{
+    padding: 50px 80px;
+    background: white;
+    border: 1px solid black;
+    font-size: 20px;
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    border-top-left-radius:30px ;
+}
+.live2{
+    margin: -149.5px 0px 0px 665px;
+}
+.live2 button{
+    padding: 62px 100px;
+    background: white;
+    border: 1px solid black;
+    font-size: 20px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    background-color: #23085a;
+    border-bottom-right-radius: 30px;
+}
+
+.alert{
+    padding: 40px 50px;
+    background: tomato;
+    color: white;
+    font-size: large;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.GREEN{
+    width: 1910px;
+    height: 800px;
+    background: #eefdec;
+    padding:20px 0px 0px 0px;
+    margin: 100px 0px 0px 0px;
+
+}
+
+.Skill{
+    width: 1300px;
+    height: 600px;
+    background: white;
+    margin: 100px 0px 0px 330px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.imgCover1{
+    width: 650px;
+    height: 600px;
+    background:url(img/LiveClasses/Girls\ study.png);
+    background-size: cover;
+    background-position-x: -125px;
+    border-top-left-radius: 50px;
+}
+
+.imgCover{
+    width: 650px;
+    height: 600px;
+    background:url(img/LiveClasses/Man\ wearing\ headphones.png);
+    background-size: cover;
+    background-position-x: -125px;
+    border-top-left-radius: 50px;
+}
+
+.TitleSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: #23085a;
+}
+.Content{
+    margin: -500px 0px 0px 720px;
+}
+
+.iconFirst .fa-check{
+    border: #00953b solid 3px;
+    border-top-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+    padding: 10px 10px;
+    margin: -5px 0px 0px 0px;
+  
+}
+
+.titleFirst{
+    margin: -70px 0px 0px 50px;
+}
+.titleFirst h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 19px;
+    color: #23085a;
+    padding: 0px 0px 0px 15px;
+    display: inline-block
+}
+.Second{
+    padding: 20px 0px 5px 0px;
+}
+.iconSecond .fa-check{
+    border: #00953b solid 3px;
+    border-top-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+    padding: 10px 10px;
+    margin: -5px 0px 0px 0px;
+  
+}
+
+.titleSecond{
+    margin: -70px 0px 0px 50px;
+}
+.titleSecond h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 19px;
+    color: #23085a;
+    padding: 0px 0px 0px 15px;
+    display: inline-block
+}
+
+
+.StartNewRightEnglish1{
+    width: 1920px;
+    height: 350px;
+    background: #23085a;
+    margin: 100px 0px 0px -10px;
+}
+
+.StartNewRightEnglishTitle{
+    margin: 0px 0px 0px 350px;
+}
+.StartNewRightEnglishTitle h4{
+    color: white;
+    font-size: 40px;
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+.StartNewRightEnglishDescribtion{
+    margin: -50px 0px 0px 350px;
+}
+.StartNewRightEnglishDescribtion h4{
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+.ButtonStartNewRightEnglishDescribtion1{
+    margin: -60px 0px 0px 1500px;
+}
+
+.ButtonStartNewRightEnglishDescribtion1 .SignIn{
+   padding: 20px 40px;
+   border-radius: 50px;
+   border: none;
+   transition: all ease-in-out 0.5s;
+   font-size: 18px;
+}
+
+#SignIn{
+    padding: 20px 40px;
+    border-radius: 50px;
+    border: none;
+    transition: all ease-in-out 0.5s;
+}
+#SignIn:hover{
+    background: #00953b;
+    text-decoration: underline;
+}
+.ButtonStartNewRightEnglishDescribtion .SignIn:hover{
+    background: #00953b;
+    text-decoration: underline;
+}
+.titleconn{
+    margin: 0px 0px -10px 0px;
+}
+.titleconn h6{
+    margin: 0px 0px 0px 10px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 13px;
+}
+.ContainerLooo{
+    margin: 0px 0px 0px 340px;
+
+        
+}
+
+.GREEN1{
+    width: 1910px;
+    height: 1100px;
+    background: #eefdec;
+    padding:20px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+
+}
+.Grammar{
+    width: 1300px;
+    height: 600px;
+    background: white;
+    margin: 90px 0px 0px 330px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.imgGrammar{
+    width: 650px;
+    height: 600px;
+    background:url(img/LiveClasses/women.png);
+    background-size: cover;
+    background-position-x: -125px;
+    border-bottom-right-radius: 50px;
+    margin: 0px 0px 0px 650px;
+}
+
+.TitleSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: #23085a;
+}
+.ContentGrammar{
+    margin: -550px 0px 0px 40px;
+    
+}
+.DescribtionSkill{
+    margin: -30px 0px 0px 0px;
+}
+.DescribtionSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 16px;
+    color: #23085a;
+    
+}
+
+.list ul li {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    margin: 0px 0px 0px -30px;
+    font-size: 18px;
+    padding: 0px 0px 5px 0px;
+}
+.Button{
+    margin: 50px 0px 0px 0px;
+}
+.Button button{
+    padding: 15px 60px;
+    background: #23085a;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 15px;
+}
+
+
+.MonthlySubscribtion{
+    width: 400px;
+    height: 280px;
+    background: white;
+    margin: 150px 0px 0px -50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    box-shadow: 5px 5px 5px  #8b8b8b79;
+}
+
+.imgMonthlySubscribtion img{
+    padding: 30px 0px 0px 150px;
+    width: 90px;
+}
+
+.TitleMonthlySubscribtion h4{
+    font-size: 23px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #23085a;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 0px 40px;
+}
+
+.CreditData{
+    width: 400px;
+    height: 280px;
+    background: white;
+    margin: -280px 0px 0px 400px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    box-shadow: 5px 5px 5px  #8b8b8b79;
+}
+
+.imgCreditData img{
+    padding: 30px 0px 0px 150px;
+    width: 90px;
+}
+
+.TitleCreditData h4{
+    font-size: 25px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #23085a;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 0px 40px;
+}
+
+.Payment{
+    width: 400px;
+    height: 280px;
+    background: white;
+    margin: -280px 0px 0px 860px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    box-shadow: 5px 5px 5px  #8b8b8b79;
+}
+
+.imgPayment img{
+    padding: 50px 0px 15px 150px;
+    width: 120px;
+}
+
+.TitlePayment h4{
+    font-size: 25px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #23085a;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 0px 40px;
+}
+.SlideComment{
+    margin: 1550px 0px 100px 450px;
+}
+
+ .ContainerMessage{
+    width: 950px;
+    height: 850px;
+    background: white;
+    box-shadow: 1px 1px 10px rgba(133, 133, 133, 0.377);   
+    border-top-left-radius: 50px ;
+    border-bottom-right-radius: 50px;
+    overflow: scroll;
+
+}
+.Raffal{
+    display: none;
+
+}
+
+.Comma1{
+    margin: 150px 0px 0px 0px;
+}
+
+.Comma1 .fa-comments{
+    font-size: 50px;
+    padding: 40px 0px 0px 400px;
+    margin: -90px 0px 0px 0px;
+    color: #23085a;
+      display: inline; 
+}
+
+.HighlightRoffal .HighlightRoffalheader{
+    padding: 0px 0px 0px 220px;
+    font-size: 40px;
+    color: #23085a;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    
+}
+
+.Name{
+    padding: 10px 0px 0px 100px;
+}
+
+.Name span{
+    color: #23085a;
+    padding: 0px 0px 10px 100px;
+}
+.Name h4{
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 30px;
+}
+.Migual{
+ margin: 0px 0xp 0px 0px;
+display: none;
+ 
+}
+
+.HighlightMigual .HighlightMigualheader{
+    padding: 0px 0px 0px 220px;
+    font-size: 40px;
+    color: #23085a;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+
+            
+.Comma{
+    margin: 0px 0px 0px 0px;
+ 
+}
+
+.Comma .fa-comments{
+    font-size: 50px;
+    padding: 40px 0px 0px 400px;
+    margin: 10px 0px 0px 0px;
+    color: #23085a;
+    
+}
+
+.Name2{
+    padding: 0px 0px 0px 100px;
+
+}
+
+.Name2 span{
+    color: #23085a;
+    padding: 0px 0px 10px 100px;
+
+}
+.Name2 h4{
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 30px;
+ 
+}
+
+  
+
+.button1{
+    margin: -50px 0px 0px 450px;
+    
+}
+.button1 button{
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+}
+
+
+.button1 button:hover{
+  background: #00ff66;
+}
+.button2{
+    margin: -25px 0px 0px 420px;
+}
+
+.button2 button{
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+}
+.button2 button:hover{
+    background: tomato;
+  }
+
+
+  .SkillGirl{
+    width: 1300px;
+    height: 500px;
+    background: white;
+    margin: 100px 0px 0px 330px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.imgCover1{
+    width: 650px;
+    height: 500px;
+    background:url(img/LiveClasses/Girls\ study.png);
+    background-size: cover;
+    background-position-x: -125px;
+    border-top-left-radius: 50px;
+    background-repeat: no-repeat;
+}
+
+.titleSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: #23085a;
+}
+.TitleSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: #23085a;
+}
+.ContentGirl{
+    margin: -500px 0px 0px 720px;
+}
+
+
+.Second{
+    padding: 20px 0px 5px 0px;
+}
+.iconSecond .fa-check{
+    border: #00953b solid 3px;
+    border-top-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+    padding: 10px 10px;
+    margin: -5px 0px 0px 0px;
+  
+}
+
+.titleSecond{
+    margin: -70px 0px 0px 50px;
+}
+.titleSecond h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 19px;
+    color: #23085a;
+    padding: 0px 0px 0px 15px;
+    display: inline-block
+}
+
+.TitlePaths{
+    margin: 100px 0px 0px 500px;
+}
+.TitlePaths h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 30px;
+    color: #23085a;
+}
+
+.ButtonStartNewRightEnglishDescribtion1{
+    margin: -60px 0px 0px 1500px;
+}
+
+.ButtonStartNewRightEnglishDescribtion1 button{
+   padding: 20px 40px;
+   border-radius: 50px;
+   border: none;
+   transition: all ease-in-out 0.5s;
+   font-size: 18px;
+}
+
+#SignIn1{
+    padding: 20px 40px;
+    border-radius: 50px;
+    border: none;
+    transition: all ease-in-out 0.5s;
+}
+#SignIn1:hover{
+    background: #00953b;
+    text-decoration: underline;
+}
+
+.Footer{
+    width: 1920px;
+    height: 850px;
+    background: #00953b;
+    margin: 0px 0px -10px -10px;
+}
+.OnlineCourseFooter{
+    padding: 50px 0px 0px 300px;
+}
+
+.TitleOnlineCourseFooter h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listOnlineCourseFooter{
+    margin: -10px 0px 0px 0px;
+}
+.listOnlineCourseFooter a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listOnlineCourseFooter a:hover{
+
+    text-decoration: underline;
+}
+
+.Learninghub{
+    padding: 10px 0px 0px 300px;
+}
+
+.TitleLearninghub h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+   
+}
+.listLearninghub{
+    margin: -10px 0px 0px 0px;
+}
+.listLearninghub a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listLearninghub a:hover{
+
+    text-decoration: underline;
+}
+
+.Skills{
+    margin: -360px 0px 0px  650px;
+}
+
+.TitleSkills h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listSkills{
+    margin: -10px 0px 0px 0px;
+}
+.listSkills a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listSkills a:hover{
+
+    text-decoration: underline;
+}
+
+.GrammarFooter{
+    margin: 50px 0px 0px  650px;
+}
+
+.TitleGrammarFooter h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listGrammarFooter{
+    margin: -10px 0px 0px 0px;
+}
+.listGrammarFooter a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listGrammarFooter a:hover{
+
+    text-decoration: underline;
+}
+
+.LeftSide{
+    margin: 0px 0px 0px 300px;
+}
+
+.VocabularyFooter{
+    margin: -375px 0px 0px  650px;
+}
+
+.TitleVocabularyFooter h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listVocabularyFooter{
+    margin: -10px 0px 0px 0px;
+}
+.listVocabularyFooter a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listVocabularyFooter a:hover{
+
+    text-decoration: underline;
+}
+
+.BusinessEnglishFooter{
+    margin: 50px 0px 0px  650px;
+}
+
+.TitleBusinessEnglish h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listBusinessEnglish{
+    margin: -10px 0px 0px 0px;
+}
+.listBusinessEnglish a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listBusinessEnglish a:hover{
+
+    text-decoration: underline;
+}
+
+.LeftSideAnother{
+    margin: -150px 0px 0px 700px;
+}
+
+.GeneralEnglish{
+    margin: -400px 0px 0px  650px;
+}
+
+.TitleGeneralEnglish h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listGeneralEnglish{
+    margin: -10px 0px 0px 0px;
+}
+.listGeneralEnglish a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listVocabularyFooter a:hover{
+
+    text-decoration: underline;
+}
+
+.BusinessEnglishFooter{
+    margin: 50px 0px 0px  650px;
+}
+
+.TitleBusinessEnglish h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listBusinessEnglish{
+    margin: -10px 0px 0px 0px;
+}
+.listBusinessEnglish a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listBusinessEnglish a:hover{
+
+    text-decoration: underline;
+}
+.Logo1 {
+    margin: 80px 0px 0px 300px;
+}
+.Logo1 img{
+    width: 120px;
+    margin: 5px 0px 0px -10px;
+}
+.lineUp1{
+    margin: -50px 0px 0px 420px;
+   width: 0px;
+   height: 40px;
+   border: 0.5px solid white;
+}
+.TitleLearnEnglish1{
+    margin: -60px 0px 0px 450px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: white;
+    font-size: 20px;
+
+}
+
+.LogoSocialMedia{
+    margin: -40px 0px 0px 1300px;
+}
+.Tiktokicon{
+    color: white;
+}
+.TitleTikTokicon h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
+.youtubeicon{
+    margin: 20px 0px 0px 0px;
+    color: white;
+}
+.Titleyoutube h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
+.twittericon{
+    margin: 20px 0px 0px 0px;
+    color: white;
+}
+.Titletwitter h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
+
+.instgram{
+    margin: -85px 0px 0px 120px;
+    color: white;
+}
+.Titleinstgram h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
+
+.facebook{
+    margin: 20px 0px 0px 120px;
+    color: white;
+}
+.Titlefacebook h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}

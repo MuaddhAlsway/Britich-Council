@@ -1,0 +1,1645 @@
+.Header{
+    width: 1920px;
+    height: 170px;
+    background: #00953b;
+    margin: -10px 0px 0px -10px;
+}
+.Container{
+    padding: 10px 0px 0px 300px;
+}
+
+.Logo img{
+    width: 160px;
+    margin: 5px 0px 0px -10px;
+}
+.lineUp{
+    margin: -60px 0px 0px 150px;
+   width: 0px;
+   height: 40px;
+   border: 0.5px solid white;
+}
+.TitleLearnEnglish{
+    margin: -60px 0px 0px 170px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: white;
+    font-size: 20px;
+
+}
+
+.SideLeft{
+    margin: -50px 0px 0px 1170px;
+}
+.icon{
+    color: white;
+}
+.lineUp1{
+    margin: -15px 0px 0px 40px;
+   width: 0px;
+   height: 15px;
+   border: 0.5px solid white;
+}
+.LogIn h4{
+    margin: -20px 0px 0px 60px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: white;
+}
+.LogIn h4:hover{
+    color: #00ff66;
+}
+.lineUp2{
+    margin: -15px 0px 0px 120px;
+   width: 0px;
+   height: 15px;
+   border: 0.5px solid white;
+}
+
+.Register h4{
+    margin: -20px 0px 0px 140px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: white;
+}
+
+.Register h4:hover{
+    color: #00ff66;
+}
+
+.CategriesCourse{
+    margin: 60px 0px 0px 10px;
+}
+
+.ListMenu h4{
+    display: inline-block;
+    padding: 0px 50px 0px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        color: white;
+}
+
+.ListMenu .Green{
+        color: #00ff66;
+}
+
+.Cover{
+    width: 1920px;
+    height: 750px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(img/img.jpg);
+    margin: 0px 0px 0px -8px;
+}
+
+.Container1{
+    width: 950px;
+    height: 300px;
+    background: white;
+    margin: -300px 0px 0px 300px;
+    border-top-right-radius: 50px;
+}
+
+.logo img{
+    width: 160px;
+    padding: 40px 0px 0px 100px;
+}
+.Title{
+    margin: -70px 0px 0px 260px;
+}
+.Title h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        color: #23085a;
+}
+
+.Highlight h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: #23085a;
+    margin: 20px 0px 0px 120px;
+
+}
+.Everything h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    margin: 50px 0px 0px 390px;
+    font-size: 30px
+}
+
+.ContainerCategories{
+    width: 1920px;
+    height: 2300px;
+    background: #eefdec;
+    margin: 30px 0px 0px -10px;
+}
+
+.titleContainerCategories h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    padding: 50px 0px 0px 470px;
+    font-size: 40px;
+    color: #23085a;
+}
+.Skill{
+    width: 1300px;
+    height: 600px;
+    background: white;
+    margin: 90px 0px 0px 330px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.imgCover{
+    width: 650px;
+    height: 600px;
+    background:url(img/Skills.jpg);
+    background-size: cover;
+    background-position-x: -125px;
+    border-top-left-radius: 50px;
+}
+
+.TitleSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: #23085a;
+}
+.Content{
+    margin: -500px 0px 0px 720px;
+}
+.DescribtionSkill{
+    margin: -30px 0px 0px 0px;
+}
+.DescribtionSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 16px;
+    color: #23085a;
+    
+}
+
+.list ul li {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    margin: 0px 0px 0px -30px;
+    font-size: 18px;
+    padding: 0px 0px 5px 0px;
+}
+.Button{
+    margin: 50px 0px 0px 0px;
+}
+.Button button{
+    padding: 15px 60px;
+    background: #23085a;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 15px;
+}
+
+.Grammar{
+    width: 1300px;
+    height: 600px;
+    background: white;
+    margin: 90px 0px 0px 330px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.imgGrammar{
+    width: 650px;
+    height: 600px;
+    background:url(img/Grammar.jpg);
+    background-size: cover;
+    background-position-x: -125px;
+    border-bottom-right-radius: 50px;
+    margin: 0px 0px 0px 650px;
+}
+
+.TitleSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: #23085a;
+}
+.ContentGrammar{
+    margin: -500px 0px 0px 40px;
+    
+}
+.DescribtionSkill{
+    margin: -30px 0px 0px 0px;
+}
+.DescribtionSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 16px;
+    color: #23085a;
+    
+}
+
+.list ul li {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    margin: 0px 0px 0px -30px;
+    font-size: 18px;
+    padding: 0px 0px 5px 0px;
+}
+.Button{
+    margin: 50px 0px 0px 0px;
+}
+.Button button{
+    padding: 15px 60px;
+    background: #23085a;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 15px;
+}
+
+.Vocabulary{
+    width: 1300px;
+    height: 600px;
+    background: white;
+    margin: 90px 0px 0px 330px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.imgVocabulary{
+    width: 650px;
+    height: 600px;
+    background:url(img/Vocabulary.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    border-top-left-radius: 50px;
+}
+
+.TitleSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: #23085a;
+}
+.Content{
+    margin: -500px 0px 0px 720px;
+}
+.DescribtionSkill{
+    margin: -30px 0px 0px 0px;
+}
+.DescribtionSkill h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 16px;
+    color: #23085a;
+    
+}
+
+.list ul li {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    margin: 0px 0px 0px -30px;
+    font-size: 18px;
+    padding: 0px 0px 5px 0px;
+}
+.Button{
+    margin: 50px 0px 0px 0px;
+}
+.Button button{
+    padding: 15px 60px;
+    background: #23085a;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 15px;
+}
+
+.PopularOnlineCourses{
+    width: 1920px;
+    height: 600px;
+    background: #23085a;
+    margin: -70px 0px 0px -10px;
+}
+
+.TitlePopularOnlineCourse h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 40px;
+    color: white;
+    padding: 100px 0px 0px 450px;
+}
+
+.LiveClass{
+    width: 300px;
+    height: 350px;
+    background: white;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: 0px 0px 0px 250px;
+}
+.imgLive img{
+    padding: 50px 0px 0px 100px;
+}
+.titleLive{
+    margin: 10px 0px 0px 0px;
+}
+.titleLive a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 20px;
+    margin:0px 0px 0px 80px;
+    text-decoration: underline;
+}
+.DescribtionLive{
+    margin: 10px 0px 0px 40px;
+
+}
+.DescribtionLive a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.DescribtionLive a:hover{
+   text-decoration: underline;
+}
+
+.IELTSPrepartion{
+    width: 300px;
+    height: 350px;
+    background: white;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: -350px 0px 0px 600px;
+}
+.imgIELTSPrepartion img{
+    padding: 50px 0px 0px 120px;
+}
+.titleIELTSPrepartion{
+    margin: 10px 0px 0px 0px;
+}
+.titleIELTSPrepartion a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 20px;
+    margin:0px 0px 0px 70px;
+    text-decoration: underline;
+}
+.DescribtionIELTSPrepartion{
+    margin: 10px 0px 0px 50px;
+
+}
+.DescribtionIELTSPrepartion a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.DescribtionIELTSPrepartion a:hover{
+   text-decoration: underline;
+}
+
+.PersonalTotriual{
+    width: 300px;
+    height: 350px;
+    background: white;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: -350px 0px 0px 950px;
+}
+.imgPersonalTotriual img{
+    padding: 50px 0px 0px 120px;
+}
+.titlePersonalTotriual{
+    margin: 10px 0px 0px 0px;
+}
+.titlePersonalTotriual a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 20px;
+    margin:0px 0px 0px 70px;
+    text-decoration: underline;
+}
+.DescribtionPersonalTotriual{
+    margin: 10px 0px 0px 50px;
+
+}
+.DescribtionPersonalTotriual a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.DescribtionPersonalTotriual a:hover{
+   text-decoration: underline;
+}
+
+.SelfStudyCourse{
+    width: 300px;
+    height: 350px;
+    background: white;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: -350px 0px 0px 1300px;
+}
+.imgSelfStudyCourse img{
+    padding: 75px 0px 0px 120px;
+}
+.titleSelfStudyCourse{
+    margin: 10px 0px 0px 0px;
+}
+.titleSelfStudyCourse a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 20px;
+    margin:0px 0px 0px 70px;
+    text-decoration: underline;
+}
+.DescribtionSelfStudyCourse{
+    margin: 10px 0px 0px 50px;
+
+}
+.DescribtionSelfStudyCourse a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.DescribtionSelfStudyCourse a:hover{
+   text-decoration: underline;
+}
+
+.FreeResourses{
+    width: 1920px;
+    height: 1050px;
+    background: #eefdec;
+    margin: 0px 0px 0px -10px;
+}
+.TitleFreeResourses {
+    padding: 80px 0px 0px 450px;
+}
+.TitleFreeResourses h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #23085a;
+    font-size: 40px;
+}
+
+.CreditFreeResourses{
+    width: 1050px;
+    height: 500px;
+    margin: 0px 0px 0px 220px;
+}
+.ArrowLeft .fa-angle-left{
+    background: #23085a;
+    padding: 20px 30px;
+    color: white;
+    font-size: 35px;
+    border-radius: 50px;
+    margin: 120px 0px 0px 0px;
+}
+.ThanksGiving{
+    width: 300px;
+    height:400px;
+    background: white;
+    margin: -200px 0px 0px 160px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.imgThanksGiving {
+    width: 300px;
+    height: 200px;
+    background-image: url(img/ThanksGiving.avif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-top-left-radius: 50px;
+}
+.TitleThanksGiving h4{
+    font-size: 22px;
+    margin: 10px 0px 0px 50px;
+    color: #23085a;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.DescribtionThankGiving h4{
+    font-size: 15px;
+    margin: 20px 0px 0px 50px;
+    color: #23085a;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+.BlackAndFriday {
+    width: 300px;
+    height:400px;
+    background: white;
+    margin: -400px 0px 0px 500px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.imgBlackAndFriday {
+    width: 300px;
+    height: 200px;
+    background-image: url(img/Black\ Friday.avif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-top-left-radius: 50px;
+}
+
+.TitleBlackAndFriday h4{
+    font-size: 22px;
+    margin: 10px 0px 0px 50px;
+    color: #23085a;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.DescribtionBlackAndFriday h4{
+    font-size: 15px;
+    margin: 20px 0px 0px 50px;
+    color: #23085a;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.SmallTalk {
+    width: 300px;
+    height:400px;
+    background: white;
+    margin: -400px 0px 0px 840px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.imgSmallTalk {
+    width: 300px;
+    height: 200px;
+    background-image: url(img/SmallTalk.avif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-top-left-radius: 50px;
+}
+
+.TitleSmallTalk h4{
+    font-size: 22px;
+    margin: 10px 0px 0px 50px;
+    color: #23085a;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.DescribtionSmallTalk h4{
+    font-size: 15px;
+    margin: 20px 0px 0px 50px;
+    color: #23085a;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.ArrowRight{
+    margin: -270px 0px 0px 1200px;
+
+}
+.ArrowRight .fa-angle-right{
+    background: #23085a;
+    padding: 20px 30px;
+    color: white;
+    font-size: 35px;
+    border-radius: 50px;
+}
+.buttonArea{
+    margin: 250px 0px 0px 550px;
+}
+.buttonArea button{
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    background: #23085a;
+    margin: 0px 5px 0px 0px;
+}
+.buttonArea button:hover{
+   background: #00ff66;
+}
+
+.TitlePlusHundered{
+    margin: 10px 0px 0px 520px;
+}
+.TitlePlusHundered h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 25px;
+    color: #23085a;
+}
+.buttonPlusHundered{
+    margin: 0px 0px 0px 550px;
+}
+.buttonPlusHundered button{
+    padding: 15px 45px;
+    border-radius: 30px;
+    border: none;
+    background: #23085a;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 15px
+}
+.Explore{
+    margin: 20px 0px 0px 470px;
+}
+.Explore h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 30px;
+}
+.ListExplore{
+    margin: 0px 0px 0px 330px;
+    width: 800px;
+}
+.ListExplore a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    margin: 0px 10px 0px 0px;
+}
+
+.LearningMaterials{
+    width: 1920px;
+    height: 450px;
+    background: #23085a;
+    margin: 0px 0px 0px -10px;
+}
+
+.TitleLearningMaterial{
+    padding: 60px 0px 0px 600px;
+}
+
+.TitleLearningMaterial h4{
+ 
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    font-size: 17px;
+}
+.SkillsContains{
+    width: 400px;
+    height: 170px;
+    background: white;
+    border: #00ff66 3px solid;
+    margin: 30px 0px 0px 300px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.iconCorrect .fa-check{
+    font-size: 15px;
+    margin: 40px 0px 0px 50px;
+    border: 3px solid #00ff66;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.SkillTitle{
+    margin: -70px 0px 0px 110px;
+}
+
+.SkillTitle h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #23085a;
+    font-size: 25px;
+}
+.SkillDescribtion{
+    margin: -20px 0px 0px 115px;
+}
+.SkillDescribtion h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 15px;
+}
+
+.GrammarContains{
+    width: 400px;
+    height: 170px;
+    background: white;
+    border: #00ff66 3px solid;
+    margin: -175px 0px 0px 750px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.iconCorrect .fa-check{
+    font-size: 15px;
+    margin: 40px 0px 0px 50px;
+    border: 3px solid #00ff66;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.GrammarTitle{
+    margin: -70px 0px 0px 110px;
+}
+
+.GrammarTitle h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #23085a;
+    font-size: 25px;
+}
+.GrammarDescribtion{
+    margin: -20px 0px 0px 115px;
+}
+.GrammarDescribtion h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 15px;
+}
+
+.VocabularyContains{
+    width: 400px;
+    height: 170px;
+    background: white;
+    border: #00ff66 3px solid;
+    margin: -175px 0px 0px 1200px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+
+.iconCorrect .fa-check{
+    font-size: 15px;
+    margin: 40px 0px 0px 50px;
+    border: 3px solid #00ff66;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.VocabularyTitle{
+    margin: -70px 0px 0px 110px;
+}
+
+.VocabularyTitle h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #23085a;
+    font-size: 25px;
+}
+.VocabularyDescribtion{
+    margin: -20px 0px 0px 115px;
+}
+.VocabularyDescribtion h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 15px;
+}
+
+.buttonGetStarted{
+    margin: 40px 0px 0px 850px;
+}
+.buttonGetStarted button{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    padding: 15px 60px;
+    background: #00ff66;
+    border-radius: 50px;
+    border: none;
+    font-size: 15px;
+}
+
+.UnderstandYourEnglish{
+    width: 650px;
+    height: 300px;
+    box-shadow: #7d7d7d57 5px 5px 10px;
+    margin: 50px 0px 0px 250px;
+    border-bottom-right-radius: 50px;
+}
+.imgUnderstandYourEnglish img{
+    margin: 30px 0px 0px 300px;
+}
+.TitleUnderstandYourEnglish{
+    margin: 30px 0px 0px 180px;
+}
+.TitleUnderstandYourEnglish a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 25px;
+
+}
+.DescribtionUnderstandYourEnglish{
+    margin: 20px 0px 0px 150px;
+}
+.DescribtionUnderstandYourEnglish a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+
+.FreeOnlineCourse{
+    width: 650px;
+    height: 300px;
+    box-shadow: #7d7d7d57 5px 5px 10px;
+    margin: -300px 0px 0px 1000px;
+    border-bottom-right-radius: 50px;
+}
+.imgFreeOnlineCourse img{
+    margin: 30px 0px 0px 300px;
+}
+.TitleFreeOnlineCourse{
+    margin: 30px 0px 0px 200px;
+}
+.TitleFreeOnlineCourse a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 25px;
+}
+.DescribtionFreeOnlineCourse{
+    margin: 20px 0px 0px 150px;
+}
+.DescribtionFreeOnlineCourse a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+.OnlineCourse{
+    width: 1920px;
+    height: 450px;
+    background: #23085a;
+    margin: 80px 0px 0px -10px;
+}
+.TitleOnlineCourse{
+    padding: 30px 0px 0px 300px;
+}
+.TitleOnlineCourse h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 25px;
+    color: white;
+    margin: 30px 0px 0px 0px 400px;
+
+}
+
+.LiveClasses{
+    margin: 60px 0px 0px 400px;
+}
+.TitleLiveClasses{
+    margin: 0px 0px 0px -20px;
+}
+.TitleLiveClasses h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 25px;
+    color: white;
+}
+
+.DescribtionLiveClasses{
+    margin: 0px 0px 0px -65px;
+}
+.DescribtionLiveClasses a{
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 18px;
+    color: white;
+}
+
+.SelfStudy{
+    margin: -230px 0px 0px 750px;
+}
+.TitleSelfStudy{
+    margin: 0px 0px 0px -20px;
+}
+.TitleSelfStudy h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 25px;
+    color: white;
+}
+
+.DescribtionSelfStudy{
+    margin: 0px 0px 0px -65px;
+}
+.DescribtionSelfStudy a{
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 18px;
+    color: white;
+}
+
+
+.PersonalCourse{
+    margin: -210px 0px 0px 1050px;
+}
+.TitlePersonalCourse{
+    margin: 0px 0px 0px -20px;
+}
+.TitlePersonalCourse h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 25px;
+    color: white;
+}
+.imgPersonalCourse img{
+    margin: 0px 0px 0px 40px;
+}
+.DescribtionPersonalCourse{
+    margin: 0px 0px 0px -45px;
+}
+.DescribtionPersonalCourse a{
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 18px;
+    color: white;
+}
+
+.IELTSpreparation{
+    margin: -230px 0px 0px 1400px;
+}
+.TitleIELTSpreparation{
+    margin: 0px 0px 0px -20px;
+}
+.TitleIELTSpreparation h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 25px;
+    color: white;
+}
+.imgIELTSpreparation img{
+    margin: 0px 0px 0px 50px;
+}
+.DescribtionIELTSpreparation{
+    margin: 0px 0px 0px -45px;
+}
+.DescribtionIELTSpreparation a{
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 18px;
+    color: white;
+}
+.Footer{
+    width: 1920px;
+    height: 850px;
+    background: #00953b;
+    margin: 0px 0px -10px -10px;
+}
+.OnlineCourseFooter{
+    padding: 50px 0px 0px 300px;
+}
+
+.TitleOnlineCourseFooter h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listOnlineCourseFooter{
+    margin: -10px 0px 0px 0px;
+}
+.listOnlineCourseFooter a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listOnlineCourseFooter a:hover{
+
+    text-decoration: underline;
+}
+
+.Learninghub{
+    padding: 10px 0px 0px 300px;
+}
+
+.TitleLearninghub h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listLearninghub{
+    margin: -10px 0px 0px 0px;
+}
+.listLearninghub a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listLearninghub a:hover{
+
+    text-decoration: underline;
+}
+
+.Skills{
+    margin: -360px 0px 0px  650px;
+}
+
+.TitleSkills h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listSkills{
+    margin: -10px 0px 0px 0px;
+}
+.listSkills a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listSkills a:hover{
+
+    text-decoration: underline;
+}
+
+.GrammarFooter{
+    margin: 50px 0px 0px  650px;
+}
+
+.TitleGrammarFooter h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listGrammarFooter{
+    margin: -10px 0px 0px 0px;
+}
+.listGrammarFooter a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listGrammarFooter a:hover{
+
+    text-decoration: underline;
+}
+
+.LeftSide{
+    margin: 0px 0px 0px 300px;
+}
+
+.VocabularyFooter{
+    margin: -375px 0px 0px  650px;
+}
+
+.TitleVocabularyFooter h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listVocabularyFooter{
+    margin: -10px 0px 0px 0px;
+}
+.listVocabularyFooter a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listVocabularyFooter a:hover{
+
+    text-decoration: underline;
+}
+
+.BusinessEnglishFooter{
+    margin: 50px 0px 0px  650px;
+}
+
+.TitleBusinessEnglish h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listBusinessEnglish{
+    margin: -10px 0px 0px 0px;
+}
+.listBusinessEnglish a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listBusinessEnglish a:hover{
+
+    text-decoration: underline;
+}
+
+.LeftSideAnother{
+    margin: -150px 0px 0px 700px;
+}
+
+.GeneralEnglish{
+    margin: -400px 0px 0px  650px;
+}
+
+.TitleGeneralEnglish h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listGeneralEnglish{
+    margin: -10px 0px 0px 0px;
+}
+.listGeneralEnglish a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listVocabularyFooter a:hover{
+
+    text-decoration: underline;
+}
+
+.BusinessEnglishFooter{
+    margin: 50px 0px 0px  650px;
+}
+
+.TitleBusinessEnglish h4{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#23085a;
+    font-size: 20px;
+}
+.listBusinessEnglish{
+    margin: -10px 0px 0px 0px;
+}
+.listBusinessEnglish a{
+    display: block;
+    padding:0px 0px 10px 0px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.listBusinessEnglish a:hover{
+
+    text-decoration: underline;
+}
+.Logo1 {
+    margin: 80px 0px 0px 300px;
+}
+.Logo1 img{
+    width: 120px;
+    margin: 5px 0px 0px -10px;
+}
+.lineUp1{
+    margin: -50px 0px 0px 420px;
+   width: 0px;
+   height: 40px;
+   border: 0.5px solid white;
+}
+.TitleLearnEnglish1{
+    margin: -60px 0px 0px 450px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: white;
+    font-size: 20px;
+
+}
+
+.LogoSocialMedia{
+    margin: -40px 0px 0px 1300px;
+}
+.Tiktokicon{
+    color: white;
+}
+.TitleTikTokicon h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
+.youtubeicon{
+    margin: 20px 0px 0px 0px;
+    color: white;
+}
+.Titleyoutube h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
+.twittericon{
+    margin: 20px 0px 0px 0px;
+    color: white;
+}
+.Titletwitter h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
+
+.instgram{
+    margin: -85px 0px 0px 120px;
+    color: white;
+}
+.Titleinstgram h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
+
+.facebook{
+    margin: 20px 0px 0px 120px;
+    color: white;
+}
+.Titlefacebook h4{
+    margin: -20px 0px 0px 30px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+        font-size: 13px;
+}
